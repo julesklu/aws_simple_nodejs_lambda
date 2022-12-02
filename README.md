@@ -15,6 +15,16 @@
 }
 ```
 
+## list
+```
+{
+    "operation": "list",
+    "payload": {
+        "TableName": "Users"
+    }
+}
+```
+
 ## get by id
 
 ```
